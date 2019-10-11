@@ -1,4 +1,0 @@
-	So for the first network I copy and pasted verbatim from the slides.
-	For the second network i really wanted to experiment quite a bit and deviate far from the first network.
-	I added four additional layers to the network two tanh towards the middle of the hidden layers two more relu layers and messed around the the possitions of the pooling layers. I also increased the dropout rate to 70% to try to make sure that
-	the network is very robust. This network performed not as well as i would hope and i would like to have some more convolutional layers to extract more out of it and reduce the training time more. 

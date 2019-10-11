@@ -1,7 +1,0 @@
-/home/micah/Documents/School/CS490_Computer_Vision/Homeworks/Assignment_5/CS_490_Assign05_Files/build/CMakeFiles/install/strip.dir
-/home/micah/Documents/School/CS490_Computer_Vision/Homeworks/Assignment_5/CS_490_Assign05_Files/build/CMakeFiles/edit_cache.dir
-/home/micah/Documents/School/CS490_Computer_Vision/Homeworks/Assignment_5/CS_490_Assign05_Files/build/CMakeFiles/Assign05.dir
-/home/micah/Documents/School/CS490_Computer_Vision/Homeworks/Assignment_5/CS_490_Assign05_Files/build/CMakeFiles/install.dir
-/home/micah/Documents/School/CS490_Computer_Vision/Homeworks/Assignment_5/CS_490_Assign05_Files/build/CMakeFiles/rebuild_cache.dir
-/home/micah/Documents/School/CS490_Computer_Vision/Homeworks/Assignment_5/CS_490_Assign05_Files/build/CMakeFiles/list_install_components.dir
-/home/micah/Documents/School/CS490_Computer_Vision/Homeworks/Assignment_5/CS_490_Assign05_Files/build/CMakeFiles/install/local.dir

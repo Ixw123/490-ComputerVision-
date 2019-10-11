@@ -1,7 +1,0 @@
-Image0.png 1.06218 
-Image1.png 0.246456 
-Image2.png 0.515481 
-Image3.png 0.792075 
-Image4.png 0.7036 
-Image5.png 0.858813 
-Image6.png 0 
