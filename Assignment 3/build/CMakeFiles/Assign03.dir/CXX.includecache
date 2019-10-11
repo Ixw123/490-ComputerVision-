@@ -1,0 +1,56 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/micah/Documents/School/CS490_Computer_Vision/Homeworks/Assignment 3/Assign03.cpp
+opencv2/core/core.hpp
+-
+opencv2/highgui/highgui.hpp
+-
+iostream
+-
+Filtering.hpp
+/home/micah/Documents/School/CS490_Computer_Vision/Homeworks/Assignment 3/Filtering.hpp
+TEST_Filtering.hpp
+/home/micah/Documents/School/CS490_Computer_Vision/Homeworks/Assignment 3/TEST_Filtering.hpp
+
+/home/micah/Documents/School/CS490_Computer_Vision/Homeworks/Assignment 3/Filtering.cpp
+opencv2/core/core.hpp
+-
+opencv2/highgui/highgui.hpp
+-
+opencv2/imgproc.hpp
+-
+iostream
+-
+memory.h
+-
+cstring
+-
+cstdint
+-
+stdio.h
+-
+
+/home/micah/Documents/School/CS490_Computer_Vision/Homeworks/Assignment 3/Filtering.hpp
+opencv2/core.hpp
+-
+opencv2/highgui.hpp
+-
+opencv2/imgproc.hpp
+-
+iostream
+-
+
+/home/micah/Documents/School/CS490_Computer_Vision/Homeworks/Assignment 3/TEST_Filtering.cpp
+TEST_Filtering.hpp
+/home/micah/Documents/School/CS490_Computer_Vision/Homeworks/Assignment 3/TEST_Filtering.hpp
+
+/home/micah/Documents/School/CS490_Computer_Vision/Homeworks/Assignment 3/TEST_Filtering.hpp
+Filtering.hpp
+/home/micah/Documents/School/CS490_Computer_Vision/Homeworks/Assignment 3/Filtering.hpp
+
